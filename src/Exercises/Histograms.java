@@ -2,7 +2,7 @@ package Exercises;
 
 import java.util.Scanner;
 
-public class Histogram {
+public class Histograms {
     public static void main(String[] args) {
         int n;
         double p1Percentage;
